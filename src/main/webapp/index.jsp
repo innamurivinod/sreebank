@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Sreekanth Bankk</title>
+<title>Sreekanth Bank</title>
 </head>
 <body bgcolor="#FF1493">
 <center>
