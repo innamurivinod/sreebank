@@ -2,7 +2,7 @@
 <head>
 <title>Sreekanth Bankk</title>
 </head>
-<body bgcolor="Black">
+<body bgcolor="#FF1493">
 <center>
 <h1>Welcome to the Sreekanth Bank</h1>
 </center>
