@@ -2,9 +2,9 @@
 <head>
 <title>Sreekanth Bank</title>
 </head>
-<body bgcolor="Blue">
+<body bgcolor="Red">
 <center>
-<h1>Welcome to the Sreekanth Ban</h1>
+<h1>Welcome to the Sreekanth Bank</h1>
 </center>
 <p>
 A bank is a financial institution that accepts deposits from the public and creates Demand Deposit.[1] Lending activities can be performed either directly or indirectly through capital markets. 
