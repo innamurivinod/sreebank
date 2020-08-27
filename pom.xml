@@ -18,4 +18,16 @@
   <build>
     <finalName>sreebank</finalName>
   </build>
+  <distributionManagement>
+  <repository>
+    <id>releases</id>
+    <!-- nexus server details for release -->
+    <url>http://34.66.157.147:8081/repository/maven-releases/</url>
+  </repository>
+  <snapshotRepository>
+    <id>snapshots</id>
+    <!-- nexus server details for snapshots-->
+    <url>http://34.66.157.147:8081/repository/maven-snapshots/</url>
+  </snapshotRepository>
+</distributionManagement>
 </project>
